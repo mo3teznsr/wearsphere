@@ -1,0 +1,25 @@
+composer.phar
+composer.lock
+Thumbs.db
+.idea
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vim
+*~
+*.swp
+*.swo
+
+# dbs
+*.tar
+*.gz
+*.zip
+*.tgz
+*.dump
+*.mmdb
+*.history
+/vendor/
+/.phpunit.result.cache
